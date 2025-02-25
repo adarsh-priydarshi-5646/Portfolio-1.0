@@ -96,13 +96,13 @@ const Achievements = () => {
     {
       title: 'Generative AI for Everyone',
       issuer: 'Coursera',
-      date: 'January 2024',
+      date: 'January 2025',
       icon: Brain,
     },
     {
       title: 'ChatGPT Prompt Engineering for Developers',
       issuer: 'DeepLearning.AI',
-      date: 'February 2024',
+      date: 'February 2025',
       icon: Code2,
     },
   ];
