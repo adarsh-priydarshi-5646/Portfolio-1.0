@@ -26,7 +26,7 @@ const projects = [
   {
     title: 'Sifra (Virtual Assistant)',
     description: 'A personal virtual assistant with voice recognition and task automation capabilities.',
-    techStack: ['Python', 'Speech Recognition', 'PyQt'],
+    techStack: ['HTML', 'Speech Recognition', 'CSS','JavaScript'],
     category: 'AI/ML',
     features: [
       'Voice commands',
