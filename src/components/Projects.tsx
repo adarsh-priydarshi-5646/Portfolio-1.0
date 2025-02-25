@@ -6,7 +6,7 @@ const projects = [
   {
     title: 'Chatbot AI',
     description: 'An intelligent chatbot powered by machine learning for automated customer support.',
-    techStack: ['Python', 'TensorFlow', 'Flask', 'React'],
+    techStack: ['HTML', 'CSS', 'SupaBase', 'React','Typescript','Gemini API'],
     category: 'AI/ML',
     features: [
       'Natural Language Processing',
@@ -46,7 +46,7 @@ const projects = [
   {
     title: 'KM Computers',
     description: 'A full-stack e-commerce website for a computer hardware store.',
-    techStack: ['React', 'Node.js', 'Express', 'MongoDB'],
+    techStack: ['React', 'Node.js', 'TypesScript', 'SupaBase'],
     category: 'Full-Stack',
     features: [
       'Product catalog',
@@ -66,7 +66,7 @@ const projects = [
   {
     title: 'Quiz Website',
     description: 'An interactive quiz platform with real-time scoring and leaderboards.',
-    techStack: ['React', 'Firebase', 'Tailwind CSS'],
+    techStack: ['React', 'SupaBase', 'Tailwind CSS'],
     category: 'Full-Stack',
     features: [
       'Multiple quiz categories',
